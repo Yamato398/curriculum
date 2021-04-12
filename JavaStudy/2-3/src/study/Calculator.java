@@ -1,6 +1,7 @@
 package study;
 
 public class Calculator {
+	
 
     protected int plus(int a) {
         return a + 1;

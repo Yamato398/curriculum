@@ -3,7 +3,7 @@ package check;
 import constants.Constants;
 
 
-public class Check {
+public class Check{
 	/**
 	 * 【Check.java】にてフィールド変数firstNameとlastNameを宣言し、
 	 *  firstName →　自分の名字　lastName →　自分の名前で初期化しなさい。

@@ -14,6 +14,8 @@
         /* 要素の浮動化の解除 */
         /* float: none;  */
         
+    }
+    .footer {
         width: 250px;
     }
 
